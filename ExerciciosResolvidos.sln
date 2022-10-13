@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula27ExercicioResolvido04"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula33ExercicioResolvido01", "Aula33ExercicioResolvido01\Aula33ExercicioResolvido01.csproj", "{51BB633A-A939-4911-99DF-871F0F54DEC0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula34ExercicioResolvido02", "Aula34ExercicioResolvido02\Aula34ExercicioResolvido02.csproj", "{3838C434-6F7C-4997-87CF-34A12B826D59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{51BB633A-A939-4911-99DF-871F0F54DEC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51BB633A-A939-4911-99DF-871F0F54DEC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51BB633A-A939-4911-99DF-871F0F54DEC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3838C434-6F7C-4997-87CF-34A12B826D59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3838C434-6F7C-4997-87CF-34A12B826D59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3838C434-6F7C-4997-87CF-34A12B826D59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3838C434-6F7C-4997-87CF-34A12B826D59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
