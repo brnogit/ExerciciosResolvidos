@@ -27,6 +27,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula50ExercicioResolvido04U
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula57ExercicioResolvido", "Aula57ExercicioResolvido\Aula57ExercicioResolvido.csproj", "{23F2268F-D127-490E-9126-A20E160E9811}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula58ExercicioResolvido02Vetores", "Aula58ExercicioResolvido02Vetores\Aula58ExercicioResolvido02Vetores.csproj", "{4F82108F-A3E8-4228-97E3-05763401C095}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{23F2268F-D127-490E-9126-A20E160E9811}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23F2268F-D127-490E-9126-A20E160E9811}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23F2268F-D127-490E-9126-A20E160E9811}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F82108F-A3E8-4228-97E3-05763401C095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F82108F-A3E8-4228-97E3-05763401C095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F82108F-A3E8-4228-97E3-05763401C095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F82108F-A3E8-4228-97E3-05763401C095}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
